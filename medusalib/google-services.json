@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "771108476746",
+    "firebase_url": "https://medusa-a9175.firebaseio.com",
+    "project_id": "medusa-a9175",
+    "storage_bucket": "medusa-a9175.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771108476746:android:3d86b50dd00fe57f",
+        "android_client_info": {
+          "package_name": "com.atlabs.medusalib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771108476746-g7vq3vfselcs1f34ignqhk65sv9fle7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB--pXFgLsKzmeR28KfbkGvZXHxMZjq7qQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
