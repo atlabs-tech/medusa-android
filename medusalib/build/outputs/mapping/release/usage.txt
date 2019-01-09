@@ -1,0 +1,7 @@
+com.atlabs.medusalib.BuildConfig
+com.atlabs.medusalib.Firebase.FirestoreKt
+com.atlabs.medusalib.Firebase.FirestoreKt$iniFirestore$1
+com.atlabs.medusalib.Firebase.FirestoreKt$readFromFirestore$1
+com.atlabs.medusalib.Medusa
+com.atlabs.medusalib.Network.NetworkKt
+com.atlabs.medusalib.SharedPreferences.MySharedPreferencesKt

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">771108476746-g7vq3vfselcs1f34ignqhk65sv9fle7r.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://medusa-a9175.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">771108476746</string>
+    <string name="google_api_key" translatable="false">AIzaSyB--pXFgLsKzmeR28KfbkGvZXHxMZjq7qQ</string>
+    <string name="google_app_id" translatable="false">1:771108476746:android:3d86b50dd00fe57f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB--pXFgLsKzmeR28KfbkGvZXHxMZjq7qQ</string>
+    <string name="google_storage_bucket" translatable="false">medusa-a9175.appspot.com</string>
+    <string name="project_id" translatable="false">medusa-a9175</string>
+</resources>
